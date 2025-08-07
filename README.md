@@ -49,3 +49,31 @@ Included formats:
 ##  Usage & Viewing
 
 1. Clone the repository:
+   git clone https://github.com/pjad6191/MIT-OCW-6.100A-Intro-to-CS-in-Python
+
+2. Navigate into the problem set directory:
+   cd psetX
+3. Review the Python scripts, and run them using Python 3:
+   python3 solution.py
+
+4. Each folder includes its own README to guide you through the problem and solution details.
+
+---
+
+##  Why This Matters
+
+- Demonstrates **self-directed learning** using advanced MIT-level course materials  
+- Shows mastery of **core computer science concepts** taught in an introductory CS curriculum  
+- Provides tangible evidence of coding ability and project organization for recruiters, grad schools, or collaborators
+
+---
+
+##  License & Attribution
+
+All course content and assignments are © MIT and released under the **Creative Commons BY-NC-SA** license via MIT OpenCourseWare:contentReference[oaicite:7]{index=7}. This repository contains **my own work** in response to OCW materials and is shared for educational and non-commercial purposes.
+
+---
+
+**Feel free to explore the assignments, review my code structure, and reach out with feedback or questions!**
+
+

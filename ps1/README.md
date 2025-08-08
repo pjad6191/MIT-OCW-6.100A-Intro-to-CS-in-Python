@@ -1,7 +1,7 @@
-# Problem Set X – MIT 6.0001: Introduction to Computer Science and Programming in Python (Fall 2016)
+# Problem Set 1 – MIT 6.0001: Introduction to Computer Science and Programming in Python
 
-## 📄 Assignment Overview
-**Completed:** [DATE] 
+## 📄 Assignment Overview  
+**Completed:** [DATE]     
 **Source:** [MIT OCW – Problem Set X](LINK_TO_OCW_PROBLEM)  
 
 Briefly describe the goal of this problem set in 2–3 sentences.  

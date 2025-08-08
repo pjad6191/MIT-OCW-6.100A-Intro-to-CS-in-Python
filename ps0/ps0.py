@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 This assignment introduces us to the programming environment Spyder, 
 programming in Python, and the general problem set structure. It is a simple 

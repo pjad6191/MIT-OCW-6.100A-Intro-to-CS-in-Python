@@ -1,7 +1,8 @@
 # Problem Set 0 – MIT 6.0001: Introduction to Computer Science and Programming in Python 
 
 ## 📄 Assignment Overview
-**Source:** [MIT OCW – Problem Set 0](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/ps0/)  
+**Completed:** 8/1/25
+**Source:** https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/ps0/
 
 This problem set introduces:
 - The programming environment **Spyder** from the Anaconda distribution of Python

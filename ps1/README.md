@@ -4,19 +4,35 @@
 **Completed:** [DATE]     
 **Source:** [MIT OCW – Problem Set X](LINK_TO_OCW_PROBLEM)  
 
-Briefly describe the goal of this problem set in 2–3 sentences.  
-Example: “This problem set covers loops, conditionals, and user input by building a simple financial model that calculates savings over time.”
+This problem set introduces control flow in Python and formulating a computational solution to a problem. It also allows a chance to explore bisection search.  
+There will be three problems which will be saved as:
+1. ps1a.py
+2. ps1b.py
+3. ps1c.py
 
 ---
 
 ## 📝 Original Assignment Summary
-List the main tasks or requirements from the original instructions.
 
-Example:
-1. Prompt the user to enter [required inputs].
-2. Perform calculations for [X] and [Y].
-3. Output the results in the specified format.
-4. Handle edge cases such as [examples].
+**Part A: House Hunting**  
+
+Taking on the view of someone who has graduated from MIT and moved to the San Francisco Bay area, the goal is to save up enough to buy a house. Considering the high cost of housing, it will be necessary to save for several year to afford the down payment. Part A determines how long it will take to say enough money to make the down payment given the following assumptions:
+
+1. Call the cost of your dream home total_cost.
+2. Call the portion of the cost needed for a down payment portion_down_payment. For
+simplicity, assume that portion_down_payment = 0.25 (25%).
+3. Call the amount that you have saved thus far current_savings. You start with a current
+savings of $0. 
+4. Assume that you invest your current savings wisely, with an annual return of r (in other words,
+at the end of each month, you receive an additional current_savings*r/12 funds to put into
+your savings – the 12 is because r is an annual rate). Assume that your investments earn a 
+return of r = 0.04 (4%).
+5. Assume your annual salary is annual_salary.
+6. Assume you are going to dedicate a certain amount of your salary each month to saving for 
+the down payment. Call that portion_saved. This variable should be in decimal form (i.e. 0.1
+for 10%). 
+7. At the end of each month, your savings will be increased by the return on your investment,
+plus a percentage of your monthly salary (annual salary / 12).
 
 ---
 

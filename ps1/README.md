@@ -46,12 +46,12 @@ values that represent annual amounts and those that represent monthly amounts.
 Try different inputs and see how long it takes to save for a down payment.  Please make your 
 program print results in the format shown in the test cases below.    
 
-Test Case 1 
->>> 
-Enter your annual salary: 120000 
-Enter the percent of your salary to save, as a decimal: .10 
-Enter the cost of your dream home: 1000000 
-Number of months: 183 
+Test Case 1   
+>>>   
+Enter your annual salary: 120000   
+Enter the percent of your salary to save, as a decimal: .10   
+Enter the cost of your dream home: 1000000   
+Number of months: 183  
 
 **Part B: Saving, With a Raise**  
 

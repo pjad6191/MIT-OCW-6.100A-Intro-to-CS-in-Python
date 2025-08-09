@@ -1,4 +1,7 @@
 """
+Created on Thu Aug  9 11:11:39 2025
+@author: PamelaBrown
+
 This program calculates the best savings rate to achieve a down payment 
 of a $1M house in 36 months, as a function of a starting salary, 
 using a bisection search. 

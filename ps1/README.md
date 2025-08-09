@@ -62,12 +62,12 @@ Additions to the code:
 
 Hints 
 To help you get started, here is a rough outline of the stages you should probably follow in writing your 
-code: 
-● Retrieve user input. 
+code:   
+● Retrieve user input.     
 ● Initialize some state variables. You should decide what information you need.  Be sure to be 
-careful about values that represent annual amounts and those that represent monthly amounts. 
+careful about values that represent annual amounts and those that represent monthly amounts.   
 ● Be careful about when you increase your salary – this should only happen after the 6th, 12th, 18th 
-month, and so on. 
+month, and so on.   
 
 Try different inputs and see how quickly or slowly you can save enough for a down payment.  Please 
 make your program print results in the format shown in the test cases below.  
@@ -122,30 +122,30 @@ program print results in the format shown in the test cases below.
 Note: There are multiple right ways to implement bisection search/number of steps so your 
 results may not perfectly match those of the test case. 
 
-Hints 
+Hints   
 ● There may be multiple savings rates that yield a savings amount that is within $100 of the 
 required down payment on a $1M house. In this case, you can just return any of the possible 
-values. 
+values.   
 ● Depending on your stopping condition and how you compute a trial value for bisection search, 
-your number of steps may vary slightly from the example test cases. 
+your number of steps may vary slightly from the example test cases.   
 ● Watch out for integer division when calculating if a percentage saved is appropriate and when 
-calculating final decimal percentage savings rate. 
+calculating final decimal percentage savings rate.   
 ● Remember to reset the appropriate variable(s) to their initial values for each iteration of bisection 
-search. 
+search.   
 
 Test Case 1 
 >>>  
-Enter the starting salary: 150000 
-Best savings rate: 0.4411  
-Steps in bisection search: 12 
+Enter the starting salary: 150000   
+Best savings rate: 0.4411    
+Steps in bisection search: 12   
 >>> 
    
 ---
 
 ## 💡 Key Concepts Practiced
-- Concept 1 While Loops
-- Concept 2 Conditionals
-- Concept 3 Bisection Search
+- Concept 1 While Loops  
+- Concept 2 Conditionals  
+- Concept 3 Bisection Search  
 
 ---
 

@@ -171,7 +171,7 @@ Briefly describe how you solved it:
    ```bash
    cd ps1
 3. Run the program:
-```bash
+   ```bash
    python ps1a.py
    python ps1b.py
    python ps1c.py

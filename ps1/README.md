@@ -152,9 +152,10 @@ Steps in bisection search: 12
 
 ## ✅ My Approach
 Briefly describe how you solved it:
-- Step 1: I wrote out a rough step by step guide line of what I wanted each program to accomplish
-- Step 2: Instead of having user inputs, I created variables that I knew the outcome with so that I was able to debug any problems
-- Step 3: Once my program works with the variables I initiated, I added the user inputs and tried it with different case scenarios. 
+- Step 1: I wrote out a rough step by step guide line of what I wanted each program to accomplish. This helped me visualize the flow and structure. 
+- Step 2: Instead of having user inputs, I created variables that I knew the outcome with so that I was able to debug any problems and ensure everythign was working correctly. This allowed me to test each part independently. 
+- Step 3: Once my program works with the variables I initiated, I added the user inputs and tried it with different case scenarios to make sure the program handled all types of inputs.
+- Step 4: For Part C, I created a bisection search and make sure that it properly calculated the savings rate needed for a down payment within 36 months. I also handled a case for when a salary was not enough to save up a down payment within 36 months. 
 
 ---
 

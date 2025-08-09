@@ -174,7 +174,7 @@ Briefly describe how you solved it:
 ```bash
    python ps1a.py
    python ps1b.py
-   python ps1c.py
+   python ps1c.py  
 4. Follow the prompts.
 
 ---

@@ -34,7 +34,7 @@ for 10%).
 7. At the end of each month, your savings will be increased by the return on your investment,
 plus a percentage of your monthly salary (annual salary / 12).
 
-Hints 
+Hints   
 To help you get started, here is a rough outline of the stages you should probably follow in writing your 
 code: 
 ● Retrieve user input. Look at input() if you need help with getting user input. For this problem set, 

@@ -73,14 +73,14 @@ month, and so on.
 Try different inputs and see how quickly or slowly you can save enough for a down payment.  Please 
 make your program print results in the format shown in the test cases below.  
 
-Test Case 1 
->>>  
-Enter your starting annual salary: 120000 
-Enter the percent of your salary to save, as a decimal: .05 
-Enter the cost of your dream home: 500000 
-Enter the semi annual raise, as a decimal: .03 
-Number of months: 142 
->>> 
+Test Case 1   
+>>>    
+Enter your starting annual salary: 120000   
+Enter the percent of your salary to save, as a decimal: .05   
+Enter the cost of your dream home: 500000   
+Enter the semi annual raise, as a decimal: .03   
+Number of months: 142   
+>>>   
 
 **Part C: Finding the Right Amount to Save Away**
 

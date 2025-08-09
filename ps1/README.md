@@ -34,6 +34,14 @@ for 10%).
 7. At the end of each month, your savings will be increased by the return on your investment,
 plus a percentage of your monthly salary (annual salary / 12).
 
+**Part B: Saving, with a raise**  
+
+In the section we take into account that the user has a semi-annual raise. Like before, we will write a program to calculate how many months it will take to save up enough money for a down payment. Again we will assume that investments earn a return of r​ = 0.04 (or 4%) and the required down payment percentage is 0.25 (or 25%)
+
+Additions to the code:
+1. Have the user input a semi-annual salary raise semi_annual_raise​ (as a decimal percentage)
+2. After the 6th month, increase your salary by that percentage.  Do the same after the 12
+
 ---
 
 ## 💡 Key Concepts Practiced

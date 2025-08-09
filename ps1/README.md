@@ -61,7 +61,7 @@ Additions to the code:
 1. Have the user input a semi-annual salary raise semi_annual_raise​ (as a decimal percentage)
 2. After the 6th month, increase your salary by that percentage.  Do the same after the 12
 
-Hints 
+Hints   
 To help you get started, here is a rough outline of the stages you should probably follow in writing your 
 code:   
 ● Retrieve user input.     

@@ -34,16 +34,17 @@ for 10%).
 7. At the end of each month, your savings will be increased by the return on your investment,
 plus a percentage of your monthly salary (annual salary / 12).
 
-Hints   
+Hints     
 To help you get started, here is a rough outline of the stages you should probably follow in writing your 
-code: 
+code:   
 ● Retrieve user input. Look at input() if you need help with getting user input. For this problem set, 
 you can assume that users will enter valid input (e.g. they won’t enter a string when you expect 
-an int) 
+an int)   
 ● Initialize some state variables. You should decide what information you need.  Be careful about 
 values that represent annual amounts and those that represent monthly amounts. 
+  
 Try different inputs and see how long it takes to save for a down payment.  Please make your 
-program print results in the format shown in the test cases below.  
+program print results in the format shown in the test cases below.    
 
 Test Case 1 
 >>> 
